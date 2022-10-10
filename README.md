@@ -17,3 +17,6 @@
   year={2022}
 }
 ```
+
+# Acknowlegement
+This work was supported by Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Korea government (MSIT) (No.2019-0-01371, Development of brain-inspired AI with human-like intelligence)
